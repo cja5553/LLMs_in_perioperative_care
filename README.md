@@ -6,7 +6,7 @@
 - 3 primary models were used (1) bioGPT, (2) ClinicalBERT, and (3) bioclinicalBERT.
 
 ## Dataset:
-- We used 48,875 clinical notes from patients from the Barnes Jewish Center Hospital (BJC) hospital system in St Louis, MO.
+- We used 48,875 clinical notes from patients spanning the Barnes Jewish Center Hospital (BJC) hospital system in St Louis, MO.
   - The following outcomes were used: (1) Death in 30 days, (2) Deep vein thrombosis (DVT), (3) pulmonary embolism (PE), (4) Pneumonia, (5) Acute Knee Injury, and (6) delirium
 
 ## To use:
