@@ -8,6 +8,7 @@
 ## Dataset:
 - We used 84,875 clinical notes from patients spanning the Barnes Jewish Center Hospital (BJC) hospital system in St Louis, MO.
   - The following outcomes were used: (1) Death in 30 days, (2) Deep vein thrombosis (DVT), (3) pulmonary embolism (PE), (4) Pneumonia, (5) Acute Knee Injury, and (6) delirium
+ - Characteristics: vocabulary size 3203, averaging 8.9 words per case, all single sentenced clinical notes
 
 ## To use:
 - You should be able to run the codes as it is on the Jupyter notebook files provided (of course with your own dataset)
