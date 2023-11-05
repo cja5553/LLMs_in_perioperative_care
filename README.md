@@ -11,4 +11,7 @@
 
 ## To use:
 - You should be able to run the codes as it is on the Jupyter notebook files provided.
-- For the semi-supervised and foundational version, you may need to clone the `transformers` package from `huggingface`'s github profile and slot the relevant files in the same folders of which they appear in the local folders of this github profile. 
+- For the semi-supervised and foundational version, you may need to clone the `transformers` package from `huggingface`'s github profile and slot the relevant files in the same folders of which they appear in the `local_transformers` folders of this github repo.
+
+# Questions? 
+Contact me at alba@wustl.edu
