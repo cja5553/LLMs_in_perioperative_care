@@ -3,7 +3,8 @@
 ## Goal: 
 - Experiment the use of pretrained LLMs across different fine-tuning strategies in surgical outcomes of Perioperative Care.
 - The following strategies were experimented: (1) using pretrained models alone, (2) applying finetuning, (3) applying semi-supervised fine-tuning with the labels, and (4) a foundational model where a multi-task learning strategy was employed.
-- 3 primary models were used (1) bioGPT, (2) ClinicalBERT, and (3) bioclinicalBERT.
+- 3 primary models were used 
+  1. bioGPT, (2) ClinicalBERT, and (3) bioclinicalBERT.
 
 ## Dataset:
 - We used 84,875 clinical notes from patients spanning the Barnes Jewish Center Hospital (BJC) hospital system in St Louis, MO.
