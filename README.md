@@ -17,12 +17,12 @@
 ## Dataset:
 - We used 84,875 clinical notes from patients spanning the Barnes Jewish Center Hospital (BJC) hospital system in St Louis, MO.
   - The following outcomes were used: 
-  1. Death in 30 days
-  2. Deep vein thrombosis (DVT)
-  3. pulmonary embolism (PE)
-  4. Pneumonia
-  5. Acute Knee Injury
-  6. delirium
+    1. Death in 30 days
+    2. Deep vein thrombosis (DVT)
+    3. pulmonary embolism (PE)
+    4. Pneumonia
+    5. Acute Knee Injury
+    6. delirium
   
  - Characteristics:
    - vocabulary size 3203
