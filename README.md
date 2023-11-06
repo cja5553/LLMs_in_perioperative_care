@@ -9,7 +9,7 @@
   4. foundational model where a multi-task learning strategy was employed.
  
      
-- 3 primary models were used 
+- 3 primary models were used for prediction
   1. bioGPT
   2. ClinicalBERT
   3. bioclinicalBERT.
