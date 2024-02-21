@@ -1,5 +1,9 @@
 # Prescribing Large Language Models (LLMs) for Perioperative Care: What’s The Right Dose for Pretrained Models?
 
+Finetuned models are available at 🤗 Huggingface
+
+- [https://huggingface.co/cja5553/BJH-perioperative-notes-bioClinicalBERT](cja5553/BJH-perioperative-notes-bioClinicalBERT)
+
 ## Goal: 
 - Experiment the use of pretrained LLMs across different fine-tuning strategies in surgical outcomes of Perioperative Care.
 - The following strategies were experimented:
