@@ -1,6 +1,6 @@
 # Prescribing Large Language Models (LLMs) for Perioperative Care: What’s The Right Dose for Pretrained Models?
 
-Finetuned models are available at 🤗 Huggingface
+Our best performing finetuned models are available at 🤗 Huggingface
 
 - [cja5553/BJH-perioperative-notes-bioClinicalBERT](https://huggingface.co/cja5553/BJH-perioperative-notes-bioClinicalBERT)
 - [cja5553/BJH-perioperative-notes-bioGPT](https://huggingface.co/cja5553/BJH-perioperative-notes-bioGPT)
