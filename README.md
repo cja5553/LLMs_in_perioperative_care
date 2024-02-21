@@ -2,8 +2,8 @@
 
 Our best performing finetuned models are available at 🤗 Huggingface
 
-- [cja5553/BJH-perioperative-notes-bioClinicalBERT](https://huggingface.co/cja5553/BJH-perioperative-notes-bioClinicalBERT)
-- [cja5553/BJH-perioperative-notes-bioGPT](https://huggingface.co/cja5553/BJH-perioperative-notes-bioGPT)
+- [`cja5553/BJH-perioperative-notes-bioClinicalBERT`](https://huggingface.co/cja5553/BJH-perioperative-notes-bioClinicalBERT)
+- [`cja5553/BJH-perioperative-notes-bioGPT`](https://huggingface.co/cja5553/BJH-perioperative-notes-bioGPT)
 
 ## Goal: 
 - Experiment the use of pretrained LLMs across different fine-tuning strategies in surgical outcomes of Perioperative Care.
