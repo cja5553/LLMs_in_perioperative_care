@@ -12,6 +12,12 @@ model = AutoModel.from_pretrained("cja5553/BJH-perioperative-notes-bioClinicalBE
 
 ### [`cja5553/BJH-perioperative-notes-bioGPT`](https://huggingface.co/cja5553/BJH-perioperative-notes-bioGPT)
 
+```python
+from transformers import BioGptTokenizer, AutoModelForCausalLM
+model=AutoModelForCausalLM.from_pretrained("cja5553/BJH-perioperative-notes-bioGPT")
+tokenizer = BioGptTokenizer.from_pretrained("microsoft/biogpt")
+```
+
 ## Goal: 
 - Experiment the use of pretrained LLMs across different fine-tuning strategies in surgical outcomes of Perioperative Care.
 - The following strategies were experimented:
