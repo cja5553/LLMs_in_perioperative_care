@@ -51,5 +51,17 @@ tokenizer = BioGptTokenizer.from_pretrained("microsoft/biogpt")
 - You should be able to run the codes as it is on the Jupyter notebook files provided (of course with your own dataset)
 - For the semi-supervised and foundational version, you may need to clone the `transformers` package from `huggingface`'s github profile and slot the relevant files in the same folders of which they appear in the `local_transformers` folders of this github repo.
 
+## Citation
+
+If you find this useful, please cite
+
+```
+@article{
+author={Charles Alba, Bing Xue, Joanna Abraham, Thomas Kannampallil, Chenyang Lu}
+title={The Foundational Capabilities of Large Language Models in Predicting Postoperative Risks Using Clinical Notes},
+year={2024}, journal={Forthcoming at npj Digital Medicine}
+}
+```
+
 ## Questions? 
 Contact me at alba@wustl.edu
