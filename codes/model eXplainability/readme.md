@@ -1,1 +1,1 @@
-Here we demonstrate SHAP for the mortality outcome. To replicate it on other outcomes, simply change the outcome's name!
+Here we demonstrate SHAP for the mortality outcome with the best performing foundation model. To replicate it on other outcomes or model, simply change the model or outcome's name!

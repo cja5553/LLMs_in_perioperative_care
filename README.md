@@ -49,7 +49,7 @@ tokenizer = BioGptTokenizer.from_pretrained("microsoft/biogpt")
 
 ## To use:
 - You should be able to run the codes as it is on the Jupyter notebook files provided (of course with your own dataset)
-- For the semi-supervised and foundational version, you may need to clone the `transformers` package from `huggingface`'s github profile and slot the relevant files in the same folders of which they appear in the `local_transformers` folders of this github repo.
+- For the semi-supervised and foundation version, you may need to clone the `transformers` package from `huggingface`'s github profile and slot the relevant files in the same folders of which they appear in the `local_transformers` folders of this github repo. Details could be found in the `readme`'s of each respective folder.
 
 ## Citation
 
