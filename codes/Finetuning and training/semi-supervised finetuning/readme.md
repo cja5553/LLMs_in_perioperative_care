@@ -1,0 +1,3 @@
+- `bioClinicalBERT` are foundation models trained on https://arxiv.org/abs/1904.03323
+- `ClinicalBERT` are foundation models trained on https://arxiv.org/abs/1904.05342 
+- `bioGPT` are foundation models trained on https://arxiv.org/abs/2210.10341 
