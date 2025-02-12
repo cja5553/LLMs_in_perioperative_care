@@ -59,7 +59,7 @@ If you find this useful, please cite
 @article{
 author={Charles Alba, Bing Xue, Joanna Abraham, Thomas Kannampallil, Chenyang Lu},
 title={The Foundational Capabilities of Large Language Models in Predicting Postoperative Risks Using Clinical Notes},
-year={2024}, journal={Forthcoming at npj Digital Medicine}
+year={2025}, journal={npj Digital Medicine}, doi={10.1038/s41746-025-01489-2}
 }
 ```
 
